@@ -1,10 +1,7 @@
 #include <fstream>
 #include "fileio.h"
+using namespace std;
 
-/*
-Programmers: Your Name & Matric
-Purpose: Read train data from file
-*/
 
 int readFromFile(Train trains[])
 {
@@ -20,10 +17,6 @@ int readFromFile(Train trains[])
     return count;
 }
 
-/*
-Programmers: Your Name & Matric
-Purpose: Save train data back to file
-*/
 
 void writeToFile(Train trains[], int size)
 {

@@ -3,14 +3,6 @@
 #include "booking.h"
 using namespace std;
 
-/*
-Programmers: Your Name & Matric
-Purpose: Main program control
-Assumptions:
-- Train data is stored in trains.txt
-- All prices are in RM
-- User enters valid input types
-*/
 
 int main()
 {

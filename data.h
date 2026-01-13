@@ -4,10 +4,6 @@
 #include <string>
 using namespace std;
 
-/*
-Programmers: Your Name & Matric
-Purpose: Define data structures for ETS system
-*/
 
 struct Train
 {

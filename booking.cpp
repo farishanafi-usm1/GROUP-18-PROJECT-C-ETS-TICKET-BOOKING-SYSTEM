@@ -5,20 +5,12 @@
 
 using namespace std;
 
-/*
-Programmers: Your Name & Matric
-Purpose: Load trains from file
-*/
 
 int loadTrains(Train trains[], int)
 {
     return readFromFile(trains);
 }
 
-/*
-Programmers: Your Name & Matric
-Purpose: Display all train schedules
-*/
 
 void displayTrains(Train trains[], int size)
 {
@@ -43,11 +35,6 @@ void displayTrains(Train trains[], int size)
 }
 
 
-/*
-Programmers: Your Name & Matric
-Purpose: Find train by ID
-*/
-
 int findTrain(Train trains[], int size, string id)
 {
     for (int i = 0; i < size; i++)
@@ -58,10 +45,6 @@ int findTrain(Train trains[], int size, string id)
     return -1;
 }
 
-/*
-Programmers: Your Name & Matric
-Purpose: Perform ticket booking
-*/
 
 void bookTicket(Train trains[], int size)
 {
@@ -98,10 +81,6 @@ void bookTicket(Train trains[], int size)
     saveTrains(trains, size);
 }
 
-/*
-Programmers: Your Name & Matric
-Purpose: Save updated train data
-*/
 
 void saveTrains(Train trains[], int size)
 {

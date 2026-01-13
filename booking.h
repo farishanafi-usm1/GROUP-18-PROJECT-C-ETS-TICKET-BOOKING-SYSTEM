@@ -3,10 +3,6 @@
 
 #include "data.h"
 
-/*
-Programmers: Your Name & Matric
-Purpose: Booking & train management functions
-*/
 
 int loadTrains(Train[], int);
 void displayTrains(Train[], int);

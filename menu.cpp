@@ -2,10 +2,6 @@
 #include "menu.h"
 using namespace std;
 
-/*
-Programmers: Your Name & Matric
-Purpose: Display system menu
-*/
 
 void showMainMenu()
 {
