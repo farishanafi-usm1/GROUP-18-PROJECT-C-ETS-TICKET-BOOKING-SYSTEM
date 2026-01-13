@@ -11,5 +11,5 @@ T10 AlorSetar PadangBesar 15 60
 T11 KualaLumpur Gemas 30 45
 T12 Gemas JohorBahru 50 36
 T13 KualaLumpur JohorBahru 80 70
-T14 Ipoh Gemas 35 40
+T14 Ipoh Gemas 35 39
 T15 Penang KualaLumpur 40 60

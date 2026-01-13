@@ -1,6 +1,6 @@
 #include <iostream>
-#include "menu.h"
-#include "booking.h"
+#include "menu.hpp"
+#include "booking.hpp"
 using namespace std;
 
 
