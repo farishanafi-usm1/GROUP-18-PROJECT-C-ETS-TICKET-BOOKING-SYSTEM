@@ -1,7 +1,7 @@
 #ifndef FILEIO_H
 #define FILEIO_H
 
-#include "data.h"
+#include "data.hpp"
 
 
 int readFromFile(Train[]);

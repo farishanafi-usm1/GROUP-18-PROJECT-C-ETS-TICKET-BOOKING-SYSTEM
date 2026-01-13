@@ -1,7 +1,7 @@
 #ifndef BOOKING_H
 #define BOOKING_H
 
-#include "data.h"
+#include "data.hpp"
 
 
 int loadTrains(Train[], int);

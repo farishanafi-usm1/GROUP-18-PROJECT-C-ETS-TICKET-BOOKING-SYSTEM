@@ -1,4 +1,4 @@
-T01 KualaLumpur Ipoh 25 35
+T01 KualaLumpur Ipoh 25 34
 T02 KualaLumpur Penang 40 50
 T03 Ipoh Penang 20 30
 T04 KualaLumpur Butterworth 45 60
