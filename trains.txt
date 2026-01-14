@@ -1,4 +1,4 @@
-T01 KualaLumpur Ipoh 25 34
+T01 KualaLumpur Ipoh 25 30
 T02 KualaLumpur Penang 40 50
 T03 Ipoh Penang 20 30
 T04 KualaLumpur Butterworth 45 60
@@ -10,6 +10,6 @@ T09 Butterworth KualaLumpur 45 50
 T10 AlorSetar PadangBesar 15 60
 T11 KualaLumpur Gemas 30 45
 T12 Gemas JohorBahru 50 36
-T13 KualaLumpur JohorBahru 80 70
+T13 KualaLumpur JohorBahru 80 69
 T14 Ipoh Gemas 35 39
 T15 Penang KualaLumpur 40 60

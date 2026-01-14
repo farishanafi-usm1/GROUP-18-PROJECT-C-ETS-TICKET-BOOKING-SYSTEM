@@ -45,6 +45,12 @@ int findTrain(Train trains[], int size, string id)
     return -1;
 }
 
+bool seatsAvailable(Train t, int requested) 
+{
+    return requested <= t.seats;
+}
+
+
 
 void bookTicket(Train trains[], int size)
 {
@@ -66,8 +72,7 @@ void bookTicket(Train trains[], int size)
     cout << "Enter number of tickets: ";
     cin >> b.tickets;
 
-    if (b.tickets > trains[index].seats)
-    {
+      if (!seatsAvailable(trains[index], b.tickets)) {
         cout << "Not enough seats available!\n";
         return;
     }
