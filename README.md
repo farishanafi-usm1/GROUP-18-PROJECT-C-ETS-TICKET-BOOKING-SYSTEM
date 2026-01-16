@@ -14,3 +14,6 @@ The purpose of this program is to develop a terminal-based ETS Train Ticket Book
 This program is designed to apply fundamental programming concepts such as variables, control structures, functions, structures, arrays, and file input/output in a practical railway ticket booking scenario.
 
 
+HOW TO RUN THE CODE??
+
+    *Open a new terminal and type ./ets 
